@@ -1,7 +1,8 @@
 
-# Temporal Graph Convolutional Transformer
+# Temporal Hidden Graph Transformer
 
-This code corresponds to the paper titled "Representing Dynamic Dependencies among Healthcare Data through Temporal-Graph Convolutional Transformer." It serves as a resource for understanding the development of TGCT and the interconnections between layers in the deep learning architecture. By examining this code, one can gain insights into the implementation details and gain a comprehensive understanding of TGCT's functionality.
+This code corresponds to the paper titled "Discovering Dynamic Personal Structures in Electronic Health Records
+through Time-Aware Hidden Graph Adaptation" It serves as a resource for understanding the development of THGT and the interconnections between layers in the deep learning architecture. By examining this code, one can gain insights into the implementation details and gain a comprehensive understanding of THGT's functionality.
 
 
 ## Documentation
