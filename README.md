@@ -1,8 +1,8 @@
 
-# Temporal Hidden Graph Transformer
+# Time-aware Personalized Graph Transformer
 
-This code corresponds to the paper titled "Discovering Dynamic Personal Structures in Electronic Health Records
-through Time-Aware Hidden Graph Adaptation" It serves as a resource for understanding the development of THGT and the interconnections between layers in the deep learning architecture. By examining this code, one can gain insights into the implementation details and gain a comprehensive understanding of THGT's functionality.
+This code corresponds to the paper titled "Discovering Time-Aware Dependency in Electronic Health
+Records through Personalized Hidden Graph Inference" It serves as a resource for understanding the development of THGT and the interconnections between layers in the deep learning architecture. By examining this code, one can gain insights into the implementation details and gain a comprehensive understanding of THGT's functionality.
 
 
 ## Documentation
